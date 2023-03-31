@@ -27,6 +27,9 @@ To use this application once all the dependencies have been installed just open 
 
 make sure you're in the lib folder before running the program using "node cli.js"
 
+watch this video
+
+https://watch.screencastify.com/v/e2ufZJ572sMykx77gHh9
 
     
 ![example logo](images/finished-product.png)
