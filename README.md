@@ -15,9 +15,9 @@ This is a CLI program using Inquirer to prompt users for some simple criteria fo
 
 To use this application you will need to install several items. Run these commands in the root folder after downloading the files.
 
-- "
 - "npm install"
 - "npm install inquirer@8.2.4"
+- "npm jest"
 
 
 
