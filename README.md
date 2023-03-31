@@ -17,13 +17,15 @@ To use this application you will need to install several items. Run these comman
 
 - "npm install"
 - "npm install inquirer@8.2.4"
-- "npm jest"
+- "npm i jest"
 
 
 
 ## Usage
 
 To use this application once all the dependencies have been installed just open it up in your terminal and run the command 
+
+make sure you're in the lib folder before running the program using "node cli.js"
 
 
     
