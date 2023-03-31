@@ -1,4 +1,4 @@
-const Triangle = require('../lib/square');
+const Square = require('../lib/square');
 
 describe('Square', () => {
     it('needs to return the right SVG data', () => {
