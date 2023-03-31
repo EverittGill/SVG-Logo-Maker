@@ -56,4 +56,4 @@ To contribute please fork the Github
 
 ## Tests
 
-Use the command "npm run tests" to run three tests. There is one test per shape that can be generated.
+Use the command "npm run tests" to run three tests. There is one test per shape that can be generated. 
