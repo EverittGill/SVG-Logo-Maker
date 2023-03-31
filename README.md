@@ -23,13 +23,12 @@ To use this application you will need to install several items. Run these comman
 
 ## Usage
 
-To use this application just open it up in your terminal and run the command "node cli.js"
+To use this application once all the dependencies have been installed just open it up in your terminal and run the command 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    
+![example logo](images/finished-product.png)
+
 
 ## Credits
 
